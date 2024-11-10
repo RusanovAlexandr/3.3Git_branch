@@ -1,4 +1,5 @@
 1. Создание файла
 2. Добаавление для seconde commit
-3. Изменения в ветке feature/new-feature
+3. C feature/new-feature
 4. до добавления second branch
+5. Изменения в ветке feature/another-feature
